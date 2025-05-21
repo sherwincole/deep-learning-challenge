@@ -48,4 +48,4 @@ In this project, we ran about 4 models. The last 3 models removed the EIN and NA
 
 **Summary**
 
-The deep learning model did not achieve the desired performance of 75% accuracy in predicting the success of Alphabet Soup-funded organizations. Several attempts were made to optimize the model through data preprocessing and neural network structure adjustments.# deep-learning-challenge
+The deep learning model did not achieve the desired performance of 75% accuracy in predicting the success of Alphabet Soup-funded organizations. Several attempts were made to optimize the model through data preprocessing and neural network structure adjustments.
