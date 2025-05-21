@@ -29,6 +29,7 @@ In this project, we ran about 4 models. The last 3 models removed the EIN and NA
 -   Attempt 2: Kept the same layer just dropped the epochs down to 25 
 
 -   Accuracy increased to 73%
+  
 ![Screenshot 2025-05-21 at 6 01 55 PM](https://github.com/user-attachments/assets/34f3d6ec-a865-4389-abff-fc0e0ad98504)
 
 
